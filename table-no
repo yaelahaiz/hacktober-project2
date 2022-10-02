@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>table-alf</title>
+</head>
+<body>
+
+    <table>
+        <tr>
+            <td>No.</td>
+            <td>NAMA</td>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td>ALF</td>
+        </tr>
+    </table>
+
+</body>
+</html>
